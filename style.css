@@ -40,3 +40,14 @@ body{
     font-size:23px;
     margin:15px;
 }
+
+.play_button, .stop_button{
+    width: 140px;
+    font-size: 25px;
+}
+
+canvas{
+    border-color: rgb(76, 76, 255);
+    border-style: outset;
+    border-width: thick;
+}
